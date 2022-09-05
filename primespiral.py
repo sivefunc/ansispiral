@@ -8,7 +8,10 @@ def isprime(n):
     
     if n in {2, 3}:
         return True
-    return all([n % i for i in range(2, n)])
+
+    if n % 2 == 0:
+        return False
+    return all([n % i for i in range(3, n, 2)])
 
 def prime_spiral(rows, columns, downward=True):
     """
