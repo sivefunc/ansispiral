@@ -8,7 +8,7 @@ AnsiSpiral is a Simple Unix terminal prime spiral viewer written in Python that 
 
 - Unix like system
 - Python >= 3.9
-- Support to ansi escape sequences and [24bit color](https://en.wikipedia.org/wiki/Color_depth)
+- Support to ansi escape sequences and [1bit color](https://en.wikipedia.org/wiki/Color_depth)
 
 ## Arguments
 - `-h, 	--help        → show this help message and exit`
