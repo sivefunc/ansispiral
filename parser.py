@@ -41,6 +41,11 @@ Written by a human""")
             '-dw', '--downward', 
             action="store_false",
             help="NxM prime spiral numbers won't be downward")
-    
+ 
+    parser.add_argument(
+            '-sn', '--shownum', 
+            action="store_true",
+            help="NxM prime spiral without graphics")
+   
     args = parser.parse_args()
     return args
