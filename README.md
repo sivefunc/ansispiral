@@ -17,7 +17,7 @@ AnsiSpiral is a Simple Unix terminal prime spiral viewer written in Python that 
 - `-c, 	--columns     → columns of NxM prime spiral`
 - `-f, 	--fill        → NxM prime spiral size the same as terminal screen`
 - `-dw, --downward    → NxM prime spiral numbers won't be downward`
-- `-sn, --shownum     → NxM prime spiral without graphics
+- `-sn, --shownum     → NxM prime spiral without graphics`
 
 ## Made by [Sivefunc](https://gitlab.com/sivefunc)
 ## Licensed under [GPLv3](LICENSE)
