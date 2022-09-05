@@ -3,7 +3,6 @@ from os import get_terminal_size as terminal_size
 
 from parser import parser
 from primespiral import prime_spiral
-from pandas import DataFrame
 
 args = parser()
 write = stdout.write
