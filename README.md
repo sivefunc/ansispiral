@@ -1,6 +1,6 @@
 # AnsiSpiral
 
-AnsiSpiral is a Simple Unix terminal prime spiral viewer written in Python that utilizes ansi escape sequences to render the prime spiral into the terminal.
+AnsiSpiral is a Simple Unix terminal [prime spiral](https://en.wikipedia.org/wiki/Ulam_spiral) viewer written in Python that utilizes ansi escape sequences to render the prime spiral into the terminal.
 
 ![Logo](Images/logo.png)
 
